@@ -21,6 +21,6 @@ defmodule Duper.PathFinder do
               other  -> other
             end
     {:reply, path, dir_walker}
-    end
   end
 end
+
